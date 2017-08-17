@@ -1,0 +1,363 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:2:11-61
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:5:5-47:19
+MERGED from [com.android.support:design:25.3.1] /home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/uddhav/.android/build-cache/076c8cec85c642537fc8e82d405056e49781937e/output/AndroidManifest.xml:26:5-20
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/uddhav/.android/build-cache/117c10a19977cd16a1f9722f837b868f2dd13763/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/uddhav/.android/build-cache/82bc867013235433f00eb3b18cfd063cc7065c49/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-config:10.2.1] /home/uddhav/.android/build-cache/b101c76d378b5d2d0ef738d749f8c5f5e648bb66/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/uddhav/.android/build-cache/388aff30af9698388bb69aec8b67809e3cadc797/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/uddhav/.android/build-cache/e1fecd3dd167811472cd753dd9bbd3b299bd8558/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/uddhav/.android/build-cache/60ef579d2eaaf1e88311c61c266a49b2ff0d75ac/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/uddhav/.android/build-cache/c9042371feb39e4ddc74d0adfa7bc8e13df918c9/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/uddhav/.android/build-cache/3a7dd111bd2b4b8380dbbea4ec14f0000afbaf85/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/uddhav/.android/build-cache/cedd97cae663fecff73b1422700ee2b56a2f69b7/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/uddhav/.android/build-cache/9f971de1e529e60242e2c112e25edbabc968fac9/output/AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/uddhav/.android/build-cache/85389047ec748ee774cb24506347edcb23decb5a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/uddhav/.android/build-cache/c1ba851134725fc25d30cebbfab92467dfd0be9f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/uddhav/.android/build-cache/3e4203dc6d3c358d6812135892c48d4ba2ae974a/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/uddhav/.android/build-cache/6e1a6a3ae006c011f428d8f0fdd6a10186c4c38d/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/uddhav/.android/build-cache/21b958d8b049966f6557cf4f1f07084e99e26716/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/uddhav/.android/build-cache/09e6477b51cd3af250ec5d0149aa4b3ffef27949/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/uddhav/.android/build-cache/b236b1b1cbe3b60d31b764a79077cd5987d1e02b/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/uddhav/.android/build-cache/2d2b694d1cb26291e3eed770c568ed191ec65e5e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/uddhav/.android/build-cache/28069e3c9bf2f553bc8c9fceb03dfcd0b714e3d4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/uddhav/.android/build-cache/b82a447b73eaa4634fd6d67abf5cfc61c37a6140/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/uddhav/.android/build-cache/87b6ea7cf9cac8502890636fa5bc068a6c6f0e39/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/uddhav/.android/build-cache/c45e1ec8e8b36ab6cf0dbda30405bfd290d72218/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/uddhav/.android/build-cache/742dbe1698a80ed59d2b2580eaa08115c2b47e77/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.google.firebase.codelab.friendlychat.MainActivity
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:11:9-27:20
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:11:19-87
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:15:27-74
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:17:13-26:29
+action#android.intent.action.VIEW
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:19:17-75
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:19:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:20:27-75
+data
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:21:17-25:23
+	android:host
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:22:21-68
+	android:scheme
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:23:21-42
+	android:pathPrefix
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:24:21-50
+activity#com.google.firebase.codelab.friendlychat.SignInActivity
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:29:9-52
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:29:19-49
+service#com.google.firebase.codelab.friendlychat.MyFirebaseMessagingService
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:31:9-37:19
+	android:exported
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:32:13-55
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:34:13-36:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:35:25-75
+service#com.google.firebase.codelab.friendlychat.MyFirebaseInstanceIdService
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:39:9-45:19
+	android:exported
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:40:13-56
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:42:13-44:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:43:17-80
+	android:name
+		ADDED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml:43:25-77
+uses-sdk
+INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] /home/uddhav/.android/build-cache/076c8cec85c642537fc8e82d405056e49781937e/output/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:1.3.0] /home/uddhav/.android/build-cache/117c10a19977cd16a1f9722f837b868f2dd13763/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.1] /home/uddhav/.android/build-cache/d83a21dd366661eff6eb8e8aed32cb419fb1bc47/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.1] /home/uddhav/.android/build-cache/38a84443ffda0d435286f79f3bf6292be4017298/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.1] /home/uddhav/.android/build-cache/227243c1588711c87c7a0814c3cc2db2aea9ce3b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.1] /home/uddhav/.android/build-cache/82bc867013235433f00eb3b18cfd063cc7065c49/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.1] /home/uddhav/.android/build-cache/b101c76d378b5d2d0ef738d749f8c5f5e648bb66/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.1] /home/uddhav/.android/build-cache/388aff30af9698388bb69aec8b67809e3cadc797/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.1] /home/uddhav/.android/build-cache/6a913aa7d24e4f3cb70253de49d5c2ef30f462bd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.1] /home/uddhav/.android/build-cache/e1fecd3dd167811472cd753dd9bbd3b299bd8558/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.1] /home/uddhav/.android/build-cache/60ef579d2eaaf1e88311c61c266a49b2ff0d75ac/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.1] /home/uddhav/.android/build-cache/c9042371feb39e4ddc74d0adfa7bc8e13df918c9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] /home/uddhav/.android/build-cache/3a7dd111bd2b4b8380dbbea4ec14f0000afbaf85/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/uddhav/.android/build-cache/cedd97cae663fecff73b1422700ee2b56a2f69b7/output/AndroidManifest.xml:20:5-43
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/uddhav/.android/build-cache/9f971de1e529e60242e2c112e25edbabc968fac9/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/uddhav/.android/build-cache/85389047ec748ee774cb24506347edcb23decb5a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/uddhav/.android/build-cache/c1ba851134725fc25d30cebbfab92467dfd0be9f/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/uddhav/.android/build-cache/1120e6316e3ad5f036db5a1ef983f05e00f6bf56/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.1] /home/uddhav/.android/build-cache/f5cf013139ee649efbe23dfb70e972654f41b181/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.1] /home/uddhav/.android/build-cache/f80c4172e15e66f4d4741913a01df1ad05ba7cf8/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] /home/uddhav/.android/build-cache/3e4203dc6d3c358d6812135892c48d4ba2ae974a/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/uddhav/.android/build-cache/6e1a6a3ae006c011f428d8f0fdd6a10186c4c38d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] /home/uddhav/.android/build-cache/21b958d8b049966f6557cf4f1f07084e99e26716/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] /home/uddhav/.android/build-cache/09e6477b51cd3af250ec5d0149aa4b3ffef27949/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/uddhav/.android/build-cache/b236b1b1cbe3b60d31b764a79077cd5987d1e02b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/uddhav/.android/build-cache/2d2b694d1cb26291e3eed770c568ed191ec65e5e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/uddhav/.android/build-cache/28069e3c9bf2f553bc8c9fceb03dfcd0b714e3d4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/uddhav/.android/build-cache/b82a447b73eaa4634fd6d67abf5cfc61c37a6140/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/uddhav/.android/build-cache/87b6ea7cf9cac8502890636fa5bc068a6c6f0e39/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/uddhav/.android/build-cache/c45e1ec8e8b36ab6cf0dbda30405bfd290d72218/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/uddhav/.android/build-cache/742dbe1698a80ed59d2b2580eaa08115c2b47e77/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/uddhav/.android/build-cache/076c8cec85c642537fc8e82d405056e49781937e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/uddhav/.android/build-cache/85389047ec748ee774cb24506347edcb23decb5a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/uddhav/.android/build-cache/c1ba851134725fc25d30cebbfab92467dfd0be9f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/uddhav/.android/build-cache/1120e6316e3ad5f036db5a1ef983f05e00f6bf56/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/uddhav/.android/build-cache/2d2b694d1cb26291e3eed770c568ed191ec65e5e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/uddhav/.android/build-cache/28069e3c9bf2f553bc8c9fceb03dfcd0b714e3d4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/uddhav/.android/build-cache/b82a447b73eaa4634fd6d67abf5cfc61c37a6140/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/uddhav/.android/build-cache/87b6ea7cf9cac8502890636fa5bc068a6c6f0e39/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/uddhav/.android/build-cache/c45e1ec8e8b36ab6cf0dbda30405bfd290d72218/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/uddhav/.android/build-cache/742dbe1698a80ed59d2b2580eaa08115c2b47e77/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.1] /home/uddhav/.android/build-cache/1c683ff16a9764fad7ea46580c1fd668739d8f7a/output/AndroidManifest.xml:24:18-63
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.1] /home/uddhav/.android/build-cache/cedd97cae663fecff73b1422700ee2b56a2f69b7/output/AndroidManifest.xml:18:5-66
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/uddhav/.android/build-cache/9f971de1e529e60242e2c112e25edbabc968fac9/output/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/uddhav/.android/build-cache/6e1a6a3ae006c011f428d8f0fdd6a10186c4c38d/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:18:22-64
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.1] /home/uddhav/.android/build-cache/fc7b77f40d2c2eb478ed28e0d3f0badc7ac65404/output/AndroidManifest.xml:22:25-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/uddhav/.android/build-cache/388aff30af9698388bb69aec8b67809e3cadc797/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/uddhav/.android/build-cache/388aff30af9698388bb69aec8b67809e3cadc797/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.1] /home/uddhav/.android/build-cache/388aff30af9698388bb69aec8b67809e3cadc797/output/AndroidManifest.xml:23:18-87
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/uddhav/.android/build-cache/6e1a6a3ae006c011f428d8f0fdd6a10186c4c38d/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.1] /home/uddhav/.android/build-cache/b3ec8e2b5bd5385ab33e83fe9d96b820b921bb9b/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/uddhav/.android/build-cache/3a7dd111bd2b4b8380dbbea4ec14f0000afbaf85/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/uddhav/.android/build-cache/3a7dd111bd2b4b8380dbbea4ec14f0000afbaf85/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/uddhav/.android/build-cache/3a7dd111bd2b4b8380dbbea4ec14f0000afbaf85/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] /home/uddhav/.android/build-cache/3a7dd111bd2b4b8380dbbea4ec14f0000afbaf85/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/uddhav/.android/build-cache/9f971de1e529e60242e2c112e25edbabc968fac9/output/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] /home/uddhav/.android/build-cache/b236b1b1cbe3b60d31b764a79077cd5987d1e02b/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/uddhav/.android/build-cache/9f971de1e529e60242e2c112e25edbabc968fac9/output/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/uddhav/.android/build-cache/9f971de1e529e60242e2c112e25edbabc968fac9/output/AndroidManifest.xml:15:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/uddhav/.android/build-cache/6e1a6a3ae006c011f428d8f0fdd6a10186c4c38d/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/uddhav/.android/build-cache/6e1a6a3ae006c011f428d8f0fdd6a10186c4c38d/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] /home/uddhav/.android/build-cache/6e1a6a3ae006c011f428d8f0fdd6a10186c4c38d/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] /home/uddhav/.android/build-cache/5c9440289a0ba4065dd73efb33a98901c1e57d5c/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] /home/uddhav/.android/build-cache/9d53f44fb320341ec1e4268ea10cc5410043b388/output/AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] /home/uddhav/.android/build-cache/21b958d8b049966f6557cf4f1f07084e99e26716/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/uddhav/.android/build-cache/21b958d8b049966f6557cf4f1f07084e99e26716/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/uddhav/.android/build-cache/21b958d8b049966f6557cf4f1f07084e99e26716/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/uddhav/.android/build-cache/21b958d8b049966f6557cf4f1f07084e99e26716/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] /home/uddhav/.android/build-cache/21b958d8b049966f6557cf4f1f07084e99e26716/output/AndroidManifest.xml:6:79-143

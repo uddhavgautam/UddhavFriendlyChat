@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

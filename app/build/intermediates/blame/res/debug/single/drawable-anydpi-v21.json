@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/uddhav/.android/build-cache/e095b8791aef2ab660179c85f6ae60d226308221/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

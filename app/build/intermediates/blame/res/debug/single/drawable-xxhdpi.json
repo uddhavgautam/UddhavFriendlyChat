@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_add_black_24dp.png",
+        "source": "/home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/res/drawable-xxhdpi/ic_add_black_24dp.png"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_account_circle_black_36dp.png",
+        "source": "/home/uddhav/Downloads/friendlychat-android-master/android/app/src/main/res/drawable-xxhdpi/ic_account_circle_black_36dp.png"
+    }
+]

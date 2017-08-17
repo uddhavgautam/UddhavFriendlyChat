@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Aug 17 00:15:44 CDT 2017
+base.0=/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d25e761411bbffab84a8fb8444ac8b3664a0c6e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_856159522202a9ae394821411b2d1cf99582e042/classes.dex
+base.1=/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_856159522202a9ae394821411b2d1cf99582e042
+file.0=/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4d25e761411bbffab84a8fb8444ac8b3664a0c6e/classes.dex

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/uddhav/Downloads/friendlychat-android-master/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/uddhav/.android/build-cache/6d57ef58fc03fcd2230c48ee218de0be2e09e428/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
